@@ -1,5 +1,5 @@
 # Luiz Augusto Bentemuler Rodrigues
-I am a quantitative researcher specializing in empirical economics, computational econometrics, and statistics. My research interests lie at the intersection of applied microeconomics, macro-development, and computational social sciences.
+I am a quantitative researcher specializing in empirical economics, econometrics, and statistics. My research interests lie at the intersection of applied microeconomics, macro-development, and computational social sciences.
 
 ###  Research Interests & Academic Focus
 * **Primary Fields:** Empirical Macroeconomics, Development Economics, Applied Econometrics.
@@ -16,7 +16,7 @@ I am a quantitative researcher specializing in empirical economics, computationa
 
 ###  Academic Identity & Contact
 * **Current Institution:** Federal University of Ceará (UFC) 
-  * *Position:* Undergraduate Research Fellow | Teaching Assistant (Statistics) | B.Sc. Economics (Expected 2027)
+  * *Position:* Undergraduate Research Fellow | Teaching Assistant (Statistics) | B.Sc. Economics (Expected Jan 2027)
 * **ORCID:** Verified Record — [0009-0009-6516-5520](https://orcid.org/0009-0009-6516-5520)
 * **Curriculum Lattes:** [Official Brazilian Research CV](http://lattes.cnpq.br/3654310485655593)
 * **LinkedIn:** [Professional Profile](https://linkedin.com/in/luiz-augusto-bentemuler-rodrigues-60b686209)

@@ -21,3 +21,5 @@ I am a quantitative researcher specializing in empirical economics, econometrics
 * **Curriculum Lattes:** [Official Brazilian Research CV](http://lattes.cnpq.br/3654310485655593)
 * **LinkedIn:** [Professional Profile](https://linkedin.com/in/luiz-augusto-bentemuler-rodrigues-60b686209)
 * **Email:** augustobentemuler@alu.ufc.br / luizaugusto0130@gmail.com
+
+###  Working Papers

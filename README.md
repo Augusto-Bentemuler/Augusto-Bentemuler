@@ -24,3 +24,24 @@ I am a quantitative researcher specializing in empirical economics, econometrics
 
 ###  Working Papers
 *  “BENTEMULER RODRIGUES, L. A. (2026), Financial Incentives and School Dropout: An Impact Evaluation of the "Pé-de-Meia" Program via Difference-in-Differences with Treatment Intensity. Available at SSRN: [https://ssrn.com/abstract=7448720](https://ssrn.com/abstract=7448720) or [http://dx.doi.org/10.2139/ssrn.7448720](http://dx.doi.org/10.2139/ssrn.7448720)
+
+### Works in submission
+* “Analysis of the Macroeconomic Determinants of Foreign Direct Investment in Brazil (1995–2024): An ARDL Approach” RODRIGUES, L. A. B. 2026.
+
+* Stability and Sensitivity Analysis of SHAP Explanations in Credit Models Under Low-Magnitude Perturbations”, [Written in Portuguese], RODRIGUES, L. A. B. ; SILVA MELO, S. R. 2026.
+
+* “Proposal for an Innovation Index and Its Relationship with Economic and Social Well-Being: Evidence from Municipalities in Ceará”,[Written in Portuguese], RODRIGUES, L. E. B. ; RODRIGUES, L. A. B. ; SOUSA, W. L. ; COSTA, A. K. J. ; COSTA, L. L. 2026 
+
+* “Short- and Long-Run Effects of Innovation on GDP Per Capita: A Panel ARDL Estimation with Cross-Country Income Heterogeneity”, [Written in Portuguese], RODRIGUES, L. A. B. ; RODRIGUES, L. E. B. ; SOUSA, W. L. 2026
+
+* “Impact of Full-Time Elementary Education on Saeb Performance in Public Schools in Ceará, Brazil: An Approach Using Differences-In-Differences” RODRIGUES, L. A. B. ; RODRIGUES, L. E. B. ; ANDRADE, J. P. M. ; SOUSA, W. L. 2026
+
+* “The Spatial Economics of Full-Time Lower Secondary Education: Spillovers, Networks, and Cooperation in Ceará, Brazil” RODRIGUES, L. E. B. ; RODRIGUES, L. A. B. ; ANDRADE, J. P. M. ; SOUSA, W. L. 2026
+
+* “Brazilian Local Productive Arrangements: Territorial Distribution and Characterization of the Productive Structure”, [Written in Portuguese], COSTA, L. L. ; COSTA, A. K. J. ; RODRIGUES, L. E. B. ; RODRIGUES, L. A. B. ; SOUSA, W. L. 2026
+
+* “Causal Effect of Full-Time Education on SAEB Scores: Evidence for Ceará Using Double Machine Learning (DML)”, [Written in Portuguese], RODRIGUES, L. E. B. ; RODRIGUES, L. A. B. ; SOUSA, W. L. 2026
+
+* “Environmental-Economic Analysis of Energy and Biofuel Shocks in Brazil: An Input-Output Matrix  Approach” RODRIGUES, L. A. B. ; RODRIGUES, L. E. B. ; SOUSA, W. L. 2026
+
+* “Market Concentration in the Broadband Internet System in the City of Fortaleza, Ceará”, [Written in Portuguese], RODRIGUES, L. E. B. ; RODRIGUES, L. A. B. ; SOUSA, W. L. 2026

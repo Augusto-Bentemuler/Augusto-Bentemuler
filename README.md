@@ -23,3 +23,4 @@ I am a quantitative researcher specializing in empirical economics, econometrics
 * **Email:** augustobentemuler@alu.ufc.br / luizaugusto0130@gmail.com
 
 ###  Working Papers
+*  “BENTEMULER RODRIGUES, L. A. (2026), Financial Incentives and School Dropout: An Impact Evaluation of the "Pé-de-Meia" Program via Difference-in-Differences with Treatment Intensity. Available at SSRN: [https://ssrn.com/abstract=7448720](https://ssrn.com/abstract=7448720) or [http://dx.doi.org/10.2139/ssrn.7448720](http://dx.doi.org/10.2139/ssrn.7448720)

@@ -1,5 +1,5 @@
 # Luiz Augusto Bentemuler Rodrigues
-I am a quantitative researcher specializing in empirical economics, econometrics, and statistics. My research interests lie at the intersection of applied microeconomics, macro-development, and computational social sciences.
+I am a quantitative researcher specializing in empirical economics, econometrics, and statistics. My research interests lie at the intersection of applied microeconomics, development, and quantitative methods.
 
 ###  Research Interests & Academic Focus
 * **Primary Fields:** Empirical Macroeconomics, Development Economics, Applied Econometrics.
@@ -16,7 +16,7 @@ I am a quantitative researcher specializing in empirical economics, econometrics
 
 ###  Academic Identity & Contact
 * **Current Institution:** Federal University of Ceará (UFC) 
-  * *Position:* Undergraduate Research Fellow | Teaching Assistant (Statistics) | B.Sc. Economics (Expected Jan 2027)
+  * *Position:* Undergraduate Research Fellow (International Economics | Indebtedness)| Teaching Assistant (Statistics) | B.Sc. Economics (Expected Jan 2027)
 * **ORCID:** Verified Record — [0009-0009-6516-5520](https://orcid.org/0009-0009-6516-5520)
 * **Curriculum Lattes:** [Official Brazilian Research CV](http://lattes.cnpq.br/3654310485655593)
 * **LinkedIn:** [Professional Profile](https://linkedin.com/in/luiz-augusto-bentemuler-rodrigues-60b686209)
@@ -26,7 +26,7 @@ I am a quantitative researcher specializing in empirical economics, econometrics
 *  “BENTEMULER RODRIGUES, L. A. (2026), Financial Incentives and School Dropout: An Impact Evaluation of the "Pé-de-Meia" Program via Difference-in-Differences with Treatment Intensity. Available at SSRN: [https://ssrn.com/abstract=7448720](https://ssrn.com/abstract=7448720) or [http://dx.doi.org/10.2139/ssrn.7448720](http://dx.doi.org/10.2139/ssrn.7448720)
 
 ### Works in submission
-* “Analysis of the Macroeconomic Determinants of Foreign Direct Investment in Brazil (1995–2024): An ARDL Approach” RODRIGUES, L. A. B. 2026.
+* THESIS “Analysis of the Macroeconomic Determinants of Foreign Direct Investment in Brazil (1995–2024): An ARDL Approach” RODRIGUES, L. A. B. 2026.
 
 * Stability and Sensitivity Analysis of SHAP Explanations in Credit Models Under Low-Magnitude Perturbations”, [Written in Portuguese], RODRIGUES, L. A. B. ; SILVA MELO, S. R. 2026.
 

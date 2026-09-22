@@ -18,6 +18,7 @@ I am a quantitative researcher specializing in empirical economics, econometrics
 * **Current Institution:** Federal University of Ceará (UFC) 
   * *Position:* Undergraduate Research Fellow (International Economics | Indebtedness)| Teaching Assistant (Statistics) | B.Sc. Economics (Expected Jan 2027)
 * **ORCID:** Verified Record — [0009-0009-6516-5520](https://orcid.org/0009-0009-6516-5520)
+* **Scholar Google:** [Academic Profile](https://scholar.google.com.br/citations?user=rutRQxsAAAAJ&hl=pt-BR&authuser=2)
 * **Curriculum Lattes:** [Official Brazilian Research CV](http://lattes.cnpq.br/3654310485655593)
 * **LinkedIn:** [Professional Profile](https://linkedin.com/in/luiz-augusto-bentemuler-rodrigues-60b686209)
 * **Email:** augustobentemuler@alu.ufc.br / luizaugusto0130@gmail.com
